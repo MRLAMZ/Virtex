@@ -14,5 +14,9 @@ $ cd Virtex
 $ python virtex.py
 ```
 ## Screenshot
-
 ![screen](https://github.com/Kingtebe/Virtex/blob/Kingtebe/result/exnx.jpg)
+## Screenshot
+![screen](https://github.com/Kingtebe/Virtex/blob/Kingtebe/result/result.jpg)
+``
+Thank To Allah SWT | Subscribe My Channel FaaL TV
+```
