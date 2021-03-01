@@ -17,6 +17,6 @@ $ python virtex.py
 ![screen](https://github.com/Kingtebe/Virtex/blob/Kingtebe/result/exnx.jpg)
 ## Screenshot
 ![screen](https://github.com/Kingtebe/Virtex/blob/Kingtebe/result/result.jpg)
-``
+```
 Thank To Allah SWT | Subscribe My Channel FaaL TV
 ```
