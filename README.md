@@ -14,4 +14,5 @@ $ cd Virtex
 $ python virtex.py
 ```
 ## Screenshot
-!
+
+![screen](https://github.com/Kingtebe/Virtex/blob/Kingtebe/result/exnx.jpg)
