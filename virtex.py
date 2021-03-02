@@ -1,6 +1,6 @@
 # Awokawokawk Kontol Mau Rikod Ya Anjing ? Kamvret
 # Update : 03-03-2021 14-25
-# Done   : 03-03-2021
+# Done   : 03-03-2021 16:08
 # Only Py3
 
 import os
